@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/109091d4f7124337a28ed7b9759530f3/artifacts
+end_time: 1736182584519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 109091d4f7124337a28ed7b9759530f3
+run_name: adaptable-koi-641
+run_uuid: 109091d4f7124337a28ed7b9759530f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736182582267
+status: 3
+tags: []
+user_id: user

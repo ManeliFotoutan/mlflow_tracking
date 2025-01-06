@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/7612f2aa92bf41ecbb114c63ac948a54/artifacts
+end_time: 1736184785033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7612f2aa92bf41ecbb114c63ac948a54
+run_name: chill-turtle-3
+run_uuid: 7612f2aa92bf41ecbb114c63ac948a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736184782800
+status: 3
+tags: []
+user_id: user

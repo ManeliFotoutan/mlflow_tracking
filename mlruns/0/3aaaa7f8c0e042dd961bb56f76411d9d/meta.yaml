@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/3aaaa7f8c0e042dd961bb56f76411d9d/artifacts
+end_time: 1736182623956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aaaa7f8c0e042dd961bb56f76411d9d
+run_name: secretive-grub-995
+run_uuid: 3aaaa7f8c0e042dd961bb56f76411d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736182621736
+status: 3
+tags: []
+user_id: user

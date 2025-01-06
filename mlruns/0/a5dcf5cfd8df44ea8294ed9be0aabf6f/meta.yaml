@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/a5dcf5cfd8df44ea8294ed9be0aabf6f/artifacts
+end_time: 1736184072233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5dcf5cfd8df44ea8294ed9be0aabf6f
+run_name: nervous-boar-661
+run_uuid: a5dcf5cfd8df44ea8294ed9be0aabf6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736184070506
+status: 3
+tags: []
+user_id: user

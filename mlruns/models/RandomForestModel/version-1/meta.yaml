@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736184785032
+current_stage: Production
+description: null
+last_updated_timestamp: 1736184929000
+name: RandomForestModel
+run_id: 7612f2aa92bf41ecbb114c63ac948a54
+run_link: null
+source: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/7612f2aa92bf41ecbb114c63ac948a54/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/7612f2aa92bf41ecbb114c63ac948a54/artifacts/model
+user_id: null
+version: 1

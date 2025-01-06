@@ -1,0 +1,16 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/7dee79bcbc5149758f6372e2c9ab10c7/artifacts
+deleted_time: 1736185000292
+end_time: 1736182021949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7dee79bcbc5149758f6372e2c9ab10c7
+run_name: fearless-crow-287
+run_uuid: 7dee79bcbc5149758f6372e2c9ab10c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736182019714
+status: 3
+tags: []
+user_id: user

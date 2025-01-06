@@ -1,0 +1,16 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/c907d7567f8c4d4992d72adfc8513632/artifacts
+deleted_time: 1736185000293
+end_time: 1736182234488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c907d7567f8c4d4992d72adfc8513632
+run_name: popular-quail-720
+run_uuid: c907d7567f8c4d4992d72adfc8513632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736182232198
+status: 3
+tags: []
+user_id: user

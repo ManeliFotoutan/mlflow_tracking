@@ -1,0 +1,16 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/60bd9c1618224570b3746829c0f5b9b2/artifacts
+deleted_time: 1736185000293
+end_time: 1736182221800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 60bd9c1618224570b3746829c0f5b9b2
+run_name: blushing-auk-756
+run_uuid: 60bd9c1618224570b3746829c0f5b9b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736182219569
+status: 3
+tags: []
+user_id: user
