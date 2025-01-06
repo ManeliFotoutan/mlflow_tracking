@@ -16,7 +16,7 @@ def predict():
     try:
         data = request.get_json()
         
-        input_data = np.array(data['features']).reshape(1, -1)  # Assuming 'features' is a list of input features
+        input_data = np.array(data['features']).reshape(1, -1)  
         
         prediction = model.predict(input_data)
         
@@ -26,4 +26,6 @@ def predict():
         return jsonify({'error': str(e)}), 400
 
 if __name__ == "__main__":
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5000)  
+
+    

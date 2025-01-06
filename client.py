@@ -9,8 +9,17 @@ data = {
 
 response = requests.post(url, json=data)
 
+# Check if the response is empty or not JSON
 if response.status_code == 200:
-    prediction = response.json()['prediction']
-    print(f"Prediction: {prediction}")
+    try:
+        response_json = response.json()
+        prediction = response_json.get('prediction', None)
+        if prediction is not None:
+            print(f"Prediction: {prediction}")
+        else:
+            print("Prediction key not found in response.")
+    except requests.exceptions.JSONDecodeError:
+        print("Response is not in JSON format.")
+        print("Raw response:", response.text)
 else:
-    print(f"Error: {response.status_code}, {response.json()}")
+    print(f"Error: {response.status_code}, {response.text}")
