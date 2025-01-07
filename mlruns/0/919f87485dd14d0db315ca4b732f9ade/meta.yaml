@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/919f87485dd14d0db315ca4b732f9ade/artifacts
+end_time: 1736234186171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 919f87485dd14d0db315ca4b732f9ade
+run_name: stately-smelt-140
+run_uuid: 919f87485dd14d0db315ca4b732f9ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234181808
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/summer2/filoger/mlops/HW15_2/mlruns/0/0af7f440301a4c3797dfc72248da2669/artifacts
+end_time: 1736234209271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0af7f440301a4c3797dfc72248da2669
+run_name: funny-gull-935
+run_uuid: 0af7f440301a4c3797dfc72248da2669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234205346
+status: 4
+tags: []
+user_id: codespace
